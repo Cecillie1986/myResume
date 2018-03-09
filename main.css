@@ -1,8 +1,9 @@
 /*
 * Front-end myResume stylesheet
 *
-* White   : #fff
-* Gray    : #212121
+* White       : #fff
+* Gray        : #212121
+* Silver      : #C0C0C0
 */
 
 /*--
@@ -15,4 +16,12 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 
+}
+
+/*--
+* Personal Information
+--*/
+
+.personal {
+  background-color: #C0C0C0;
 }
